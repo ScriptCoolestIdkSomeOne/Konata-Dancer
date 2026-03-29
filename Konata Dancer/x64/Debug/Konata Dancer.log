@@ -1,0 +1,36 @@
+﻿  timotei.cpp
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\xutility(4924,18): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  (compiling source file 'timotei.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\xutility(4924,18):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\aramy\source\repos\Konata Dancer\Konata Dancer\timotei.cpp(759,30):
+          выполняется компиляция ссылки на экземпляр шаблон функции "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)"
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\aramy\source\repos\Konata Dancer\Konata Dancer\timotei.cpp(759,30):
+              см. первую ссылку на "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string" в "NotesWindow::SaveNotesToJson"
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\xstring(862,17):
+          выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)"
+          with
+          [
+              _Size_type=std::+::_Size_type,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=std::+::_Size_type
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\xstring(1018,18):
+          выполняется компиляция ссылки на экземпляр шаблон функции "_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)"
+          with
+          [
+              _OutIt=char *,
+              _Size=std::+::_Size_type,
+              _InIt=wchar_t *,
+              _SizeTy=std::+::_Size_type
+          ]
+  
+  LINK : не найден или не выполнена сборка C:\Users\aramy\source\repos\Konata Dancer\x64\Debug\Konata Dancer.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Konata Dancer.vcxproj -> C:\Users\aramy\source\repos\Konata Dancer\x64\Debug\Konata Dancer.exe
