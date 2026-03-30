@@ -2,27 +2,44 @@
 
 ![Konata Dancing](Konata_Dance.gif)
 
-<style>
-  .secret {
-    background: black;
-    color: black;
-    transition: all 0.3s;
-    cursor: pointer;
-    padding: 5px;
-    border-radius: 5px;
-  }
-  .secret:hover {
-    background: white;
-    color: black;
-  }
-</style>
 
-<span class="secret">cool test: it works i guess</span>
 
 <a href="https://github.com/ScriptCoolestIdkSomeOne/Konata-Dancer">
   <img src="https://img.shields.io/badge/Konata-Izumi-blue">
 </a>
 
-so, this is just Konata that dances, cool i think, i mb will update this repo
+<div align="center" style="
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 20px;
+  padding: 25px;
+  margin: 20px 0;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+  border: 1px solid rgba(255,255,255,0.2);
+">
+  
+  <div style="font-size: 50px; margin-bottom: 10px;">ye</div>
+  
+  <h2 style="color: white; margin: 0 0 10px 0;">Konata Dancer</h2>
+  
+  <p style="color: rgba(255,255,255,0.9); font-size: 16px; line-height: 1.5; margin: 10px 0;">
+    this is just Konata that dances cool i think 
+    <span style="color: #FF69B4;">lol</span>
+  </p>
+  
+  <div style="
+    background: rgba(255,255,255,0.15);
+    border-radius: 15px;
+    padding: 10px;
+    margin-top: 15px;
+  ">
+    <p style="color: white; margin: 0;">
+      yes <strong>yes</strong> test
+    </p>
+    <p style="color: #ddd; margin: 5px 0 0 0; font-size: 14px;">
+      i will update this repo maybe
+    </p>
+  </div>
+  
+</div>
 
 timotei.cpp is a main script and well the only script
