@@ -2,14 +2,22 @@
 
 ![Konata Dancing](Konata_Dance.gif)
 
-<pre style="font-size: 20px; background: none; border: none;">
-  <span id="frame1" onmouseover="this.style.display='none'; document.getElementById('frame2').style.display='block'">
-    (◕‿◕)
-  </span>
-  <span id="frame2" style="display:none;" onmouseover="this.style.display='none'; document.getElementById('frame1').style.display='block'">
-    (◕‿◕)ノ
-  </span>
-</pre
+<style>
+  .secret {
+    background: black;
+    color: black;
+    transition: all 0.3s;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 5px;
+  }
+  .secret:hover {
+    background: white;
+    color: black;
+  }
+</style>
+
+<span class="secret">cool test: it works i guess</span>
 
 <a href="https://github.com/ScriptCoolestIdkSomeOne/Konata-Dancer">
   <img src="https://img.shields.io/badge/Konata-Izumi-blue">
