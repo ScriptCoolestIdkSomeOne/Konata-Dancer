@@ -37,6 +37,46 @@
       i will update this repo maybe
     </p>
   </div>
+
+  <svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 480 200">
+  <defs>
+    <style>
+      text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    </style>
+  </defs>
+  
+  <!-- bg -->
+  <rect width="480" height="200" fill="#1a1a2e" rx="10"/>
+  
+  <!-- title -->
+  <text x="50" y="30" fill="#58a6ff" font-size="14" font-weight="bold">TEST</text>
+  
+  <!-- img -->
+ <image href="konata.ico" x="20" y="50" width="48" height="72"/>
+  
+  <!-- name -->
+  <text x="80" y="70" fill="white" font-size="14" font-weight="bold">Lucky Star</text>
+  
+  <!-- ico and other shit -->
+  <text x="80" y="90" fill="#888" font-size="12">
+    <tspan>Anime</tspan>
+  </text>
+  
+  <!-- date 1 -->
+  <text x="160" y="90" fill="#888" font-size="12">2007</text>
+  
+  <!-- episodes -->
+  <text x="80" y="108" fill="#888" font-size="12">24 episodes</text>
+  
+  <!-- status -->
+  <text x="80" y="126" fill="#4CAF50" font-size="12">idk</text>
+  
+  <!-- date -->
+  <text x="80" y="144" fill="#666" font-size="11">2007smth</text>
+  
+  <!-- desk -->
+  <text x="80" y="165" fill="#555" font-size="11">some random shit</text>
+</svg>
   
 ## main shit
 
