@@ -1,9 +1,5 @@
 # Konata-Dancer
 
-![Konata Dancing](Konata_Dance.gif)
-
-
-
 <a href="https://github.com/ScriptCoolestIdkSomeOne/Konata-Dancer">
   <img src="https://img.shields.io/badge/Konata-Izumi-blue">
 </a>
@@ -17,7 +13,9 @@
   border: 1px solid rgba(255,255,255,0.2);
 ">
   
-  <div style="font-size: 50px; margin-bottom: 10px;">ye</div>
+  <div style="margin-bottom: 10px;">
+    <img src="Konata_Dance.gif" alt="Konata Dancing" style="max-width: 200px; border-radius: 15px;">
+  </div>
   
   <h2 style="color: white; margin: 0 0 10px 0;">Konata Dancer</h2>
   
@@ -33,7 +31,7 @@
     margin-top: 15px;
   ">
     <p style="color: white; margin: 0;">
-      yes <strong>yes</strong> test
+      this is <strong>Konata Dancer</strong> and it's cool
     </p>
     <p style="color: #ddd; margin: 5px 0 0 0; font-size: 14px;">
       i will update this repo maybe
@@ -42,4 +40,6 @@
   
 </div>
 
-timotei.cpp is a main script and well the only script
+## main shit
+
+```timotei.cpp``` is a main script and well the only script
