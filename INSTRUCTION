@@ -1,4 +1,12 @@
 files:
-Konata Dancer.exe, Konata.gif, konata.cio, windows_xp_smth.png
+Konata Dancer.exe, Konata.gif, konata.ico, windows_xp_smth.png
 
 place them in one folder and launch .exe file
+
+# FOR CMAKE
+
+for little babies that forgot you need to type in: cmake --build .    in cmd
+
+well after you get .exe file just create a folder then place those files into the folder: Konata Dancer.exe, Konata.gif, konata.ico, windows_xp_smth.png
+
+then launch .exe
