@@ -38,18 +38,7 @@
     </p>
   </div>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200">
-  <rect width="480" height="200" fill="#1a1a2e" rx="10"/>
   
-  <image href="konata_64x64.png" x="20" y="50" width="48" height="72"/>
-  
-  <text x="80" y="70" fill="white" font-size="14" font-weight="bold">Lucky Star</text>
-  <text x="80" y="90" fill="#888" font-size="12">Anime</text>
-  <text x="160" y="90" fill="#888" font-size="12">2007</text>
-  <text x="80" y="108" fill="#888" font-size="12">24 episodes</text>
-  <text x="80" y="126" fill="#4CAF50" font-size="12">idk</text>
-  <text x="80" y="144" fill="#666" font-size="11">idkk</text>
-</svg>
 
 ## main shit
 
