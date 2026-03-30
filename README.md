@@ -52,7 +52,7 @@
   <text x="50" y="30" fill="#58a6ff" font-size="14" font-weight="bold">TEST</text>
   
   <!-- img -->
- <image href="konata.ico" x="20" y="50" width="48" height="72"/>
+ <image href="konata_64x64.png" x="20" y="50" width="48" height="72"/>
   
   <!-- name -->
   <text x="80" y="70" fill="white" font-size="14" font-weight="bold">Lucky Star</text>
