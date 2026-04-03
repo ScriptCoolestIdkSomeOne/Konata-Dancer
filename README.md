@@ -45,11 +45,16 @@
 ```timotei.cpp``` is a main script and well the only script
 
 ```mermaid
-sequenceDiagram
-    Client->>Server: GET /user/1
-    Server-->>Database: SELECT * FROM users
-    Database-->>Server: User Data
-    Server-->>Client: 200 OK (JSON)
+mindmap
+  root((Konata-Dancer))
+    Backend
+      C++
+      built in libraries
+      optimization shit
+    Frontend
+      gif
+      effects on gif
+      tray icon
 ```
 
 
