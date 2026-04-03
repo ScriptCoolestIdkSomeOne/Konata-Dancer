@@ -44,14 +44,17 @@
 
 ```timotei.cpp``` is a main script and well the only script
 
+```mermaid
 erDiagram
-    USER ||--o{ POST : writes
-    USER {
-        string username
+    USERS ||--o{ ORDERS : "fucking"
+    USERS {
+        int id PK
+        string name
         string fuck
     }
-    POST {
-        string title
-        string body
+    ORDERS {
+        int id PK
+        int user_id FK
+        float total_amount
     }
-
+```
