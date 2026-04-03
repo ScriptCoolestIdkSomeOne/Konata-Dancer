@@ -43,3 +43,15 @@
 ## main shit
 
 ```timotei.cpp``` is a main script and well the only script
+
+erDiagram
+    USER ||--o{ POST : writes
+    USER {
+        string username
+        string fuck
+    }
+    POST {
+        string title
+        string body
+    }
+
