@@ -45,16 +45,12 @@
 ```timotei.cpp``` is a main script and well the only script
 
 ```mermaid
-erDiagram
-    USERS ||--o{ ORDERS : "fucking"
-    USERS {
-        int id PK
-        string name
-        string fuck
-    }
-    ORDERS {
-        int id PK
-        int user_id FK
-        float total_amount
-    }
+sequenceDiagram
+    Client->>Server: GET /user/1
+    Server-->>Database: SELECT * FROM users
+    Database-->>Server: User Data
+    Server-->>Client: 200 OK (JSON)
 ```
+
+
+i just copied this shit
