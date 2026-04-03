@@ -55,6 +55,10 @@ mindmap
       gif
       effects on gif
       tray icon
+    Custom DLLs
+      fucking none in 2.0(will be in 3.0)
+    Systems
+      idk some poor shit in 2.0(will be more in 3.0 maybe)
 ```
 
 
