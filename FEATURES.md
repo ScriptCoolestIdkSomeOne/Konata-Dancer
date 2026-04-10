@@ -35,3 +35,28 @@ mainest and coolest shit that i used WinAPI and GDI+ so the app is really optimi
 
 > [!CAUTION]
 > test
+
+
+
+# more stest
+
+## shit
+
+  - [x] test
+- [x] test
+- [x] test
+- [ ] test
+- [ ] test
+- [ ] test
+
+test
+> shit:
+>> testing
+
+### new shit
+
+> tets
+>> test
+>>> tetsu
+>>>> tests
+>>>>> testy
