@@ -82,3 +82,18 @@ test
 >>> tetsu
 >>>> tests
 >>>>> testy
+
+> [!NOTE]
+> tes
+
+> [!TIP]
+> trws
+
+> [!IMPORTANT]
+> tewst
+
+> [!WARNING]
+> test
+
+> [!CAUTION]
+> test
