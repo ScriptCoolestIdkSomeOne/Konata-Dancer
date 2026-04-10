@@ -18,3 +18,20 @@ last_updated
 you also can change Konata by just right clicking on her and resize her or make her dance faster
 
 mainest and coolest shit that i used WinAPI and GDI+ so the app is really optimized, original Konat Dancer weights 10x bigger
+
+## shitty shit
+
+> [!NOTE]
+> tes
+
+> [!TIP]
+> trws
+
+> [!IMPORTANT]
+> tewst
+
+> [!WARNING]
+> test
+
+> [!CAUTION]
+> test
