@@ -38,17 +38,6 @@
     </p>
   </div>
 
-  - [x] test
-- [x] test
-- [x] test
-- [ ] test
-- [ ] test
-- [ ] test
-
-test
-> shit:
->> testing
-
 ## main shit
 
 ```timotei.cpp``` is a main script and well the only script
@@ -72,3 +61,24 @@ mindmap
 
 
 i just copied this shit
+
+## shit
+
+  - [x] test
+- [x] test
+- [x] test
+- [ ] test
+- [ ] test
+- [ ] test
+
+test
+> shit:
+>> testing
+
+### new shit
+
+> tets
+>> test
+>>> tetsu
+>>>> tests
+>>>>> testy
