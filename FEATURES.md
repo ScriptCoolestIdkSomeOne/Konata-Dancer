@@ -21,20 +21,15 @@ mainest and coolest shit that i used WinAPI and GDI+ so the app is really optimi
 
 ## shitty shit
 
-> [!NOTE]
-> tes
 
-> [!TIP]
-> trws
+Colors.h (library that i modified, original creator Pankoza)
+any other libraries are fully made by me(not only for this project but also for my personal projects, mb i will make other library only for this project)
 
-> [!IMPORTANT]
-> tewst
-
-> [!WARNING]
-> test
-
+GDI effects are modified versions of the Getaparane.exe made by Pankoza
 > [!CAUTION]
-> test
+> THIS SCRIPT DOES NOT HAVE ANY HAZARD/HARSH/MALICIOUS ACTIONS OR THINGS
+
+## pankoza rulez
 
 
 
