@@ -1,0 +1,23 @@
+{
+  "effect_bw": false,
+  "effect_bw_tint_b": 255,
+  "effect_bw_tint_g": 255,
+  "effect_bw_tint_r": 255,
+  "effect_exposure": 0.000000,
+  "effect_gamma": 1.000000,
+  "effect_hue_shift": 0.000000,
+  "effect_inverted": false,
+  "effect_old_film": 0.000000,
+  "effect_sepia": 0.000000,
+  "effect_temperature": 0.000000,
+  "effect_terminator": 0.000000,
+  "frame_height": 120,
+  "frame_width": 160,
+  "konata_fps": 30,
+  "konata_saturation": 1.200000,
+  "konata_scale": 100,
+  "konata_x": 933,
+  "konata_y": 389,
+  "notes_x": 200,
+  "notes_y": 200
+}

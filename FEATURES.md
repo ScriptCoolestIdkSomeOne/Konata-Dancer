@@ -17,6 +17,17 @@ konata_y
 last_updated
 you also can change Konata by just right clicking on her and resize her or make her dance faster
 
+well, you can change a lot of things by right clicking on Konata
+prizy is added
+tray is added
+ye you can change gif size with a mouse wheel
+you can change resolution of img
+
+## additional things(for other devs)
+
+you can easily change and add other features if we're talking about new effects, Colors.h(modified library allows for flexibility and other sheet
+
+
 mainest and coolest shit that i used WinAPI and GDI+ so the app is really optimized, original Konat Dancer weights 10x bigger
 
 ## shitty shit
